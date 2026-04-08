@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-tema-roofing-and-siding.dream-surge.com/sitemap-index.xml

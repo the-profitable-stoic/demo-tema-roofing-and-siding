@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Tema Roofing and Siding",
+    "phone": "+12159530300",
+    "category": "siding installer",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Philly's Siding Experts",
+      "heroSubline": "Protecting homes from Philly's toughest weather. Trusted siding installation and repair services.",
+      "aboutTitle": "Built on Trust, Stronger Than Steel",
+      "aboutText": [
+        "Tema Roofing and Siding started with a simple goal: to provide Philadelphia homeowners with durable, dependable siding solutions. We're not just installers; we're craftsmen who understand the unique challenges our city presents, from freeze-thaw cycles to historic rowhouse maintenance.",
+        "Our approach is straightforward: honest assessments, quality materials, and meticulous workmanship. We believe in clear communication and exceeding expectations, ensuring every project stands the test of time and weather.",
+        "Tema Roofing and Siding is invested in the Philadelphia community. We source local materials whenever possible and actively support neighborhood initiatives. We’re committed to building a stronger, more resilient Philadelphia, one home at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Philadelphia's climate and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Durable siding from trusted manufacturers, built to last."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Experienced installers ensure a flawless, weather-tight fit."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, upfront quotes with no hidden fees."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation siding estimate. Call now!"
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable vinyl siding installation for lasting protection.",
+        "description": "Vinyl siding remains a popular choice for Philadelphia homeowners seeking a cost-effective and low-maintenance solution. Tema Roofing and Siding offers a wide selection of vinyl siding styles and colors to complement any home's aesthetic. Our expert installers ensure a precise fit, preventing moisture damage and maximizing energy efficiency, crucial for surviving Philly winters. We handle everything from removing old siding to installing new trim and flashing, leaving your home looking its best and protected from the elements. We understand the nuances of working on Philadelphia's diverse housing stock, especially historic row homes where precision and care are paramount. Don't let another freeze-thaw cycle damage your home—invest in quality vinyl siding today. We'll work with you to select the perfect vinyl siding to boost curb appeal and protect your home for years to come. Our commitment to quality extends to every detail, ensuring your vinyl siding installation is seamless and long-lasting.",
+        "process": [
+          "Step 1: Consultation & Estimate – We assess your needs and provide a detailed quote.",
+          "Step 2: Material Selection – Choose from a variety of vinyl siding options.",
+          "Step 3: Removal of Old Siding – Careful removal and disposal of existing siding.",
+          "Step 4: Installation – Precise installation of new vinyl siding and trim."
+        ],
+        "benefits": [
+          "Affordable protection",
+          "Low maintenance",
+          "Increased curb appeal",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in Philadelphia's climate?",
+            "answer": "With proper installation and maintenance, vinyl siding can last 20-30 years, even with Philadelphia's harsh winters and humid summers."
+          },
+          {
+            "question": "Does vinyl siding require painting?",
+            "answer": "No, vinyl siding is pre-colored and does not require painting, saving you time and money on maintenance."
+          },
+          {
+            "question": "Can vinyl siding increase my home's value?",
+            "answer": "Yes, new vinyl siding can significantly enhance your home's curb appeal and increase its market value."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable fiber cement siding installation for superior weather resistance and beauty.",
+        "description": "For Philadelphia homeowners seeking exceptional durability and a classic aesthetic, fiber cement siding is an excellent choice. Tema Roofing and Siding specializes in the installation of fiber cement siding, known for its resistance to fire, pests, and the harsh weather conditions prevalent in our region. Fiber cement is a robust choice for Philly homes, especially older properties fighting moisture. We meticulously install each plank, ensuring a watertight seal that protects your home from the elements. Our team is experienced in working with various fiber cement brands and styles, providing a customized solution to match your home's architecture. From Victorian twins in West Philly to modern condos in Center City, we have the expertise to enhance any property with fiber cement siding. We handle the entire process, from removing your old siding to painting or sealing the new fiber cement, ensuring a seamless and beautiful finish. Trust us to deliver lasting protection and timeless beauty to your Philadelphia home. We take pride in our craftsmanship and attention to detail, ensuring your fiber cement siding installation is a worthwhile investment for years to come.",
+        "process": [
+          "Step 1: Consultation and Design – Discuss your aesthetic goals and siding options.",
+          "Step 2: Precise Measurement and Cutting – Accurate cuts for a perfect fit.",
+          "Step 3: Professional Installation – Secure attachment and sealing of fiber cement planks.",
+          "Step 4: Painting and Finishing – Apply a durable, weather-resistant finish."
+        ],
+        "benefits": [
+          "Exceptional durability",
+          "Fire and pest resistance",
+          "Classic aesthetic",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How does fiber cement siding hold up in Philadelphia's climate?",
+            "answer": "Fiber cement siding is highly resistant to moisture, freeze-thaw cycles, and pests, making it an excellent choice for Philadelphia's varied weather conditions."
+          },
+          {
+            "question": "Does fiber cement siding require special maintenance?",
+            "answer": "Fiber cement siding requires minimal maintenance. Periodic cleaning with a soft brush and water is typically sufficient."
+          },
+          {
+            "question": "Can fiber cement siding be painted?",
+            "answer": "Yes, fiber cement siding can be painted to match your desired color scheme. We offer professional painting services to ensure a long-lasting and beautiful finish."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Fast and reliable siding repair to protect your home from the elements.",
+        "description": "Philadelphia's weather can be brutal on siding. From Nor'easters to summer humidity, your siding takes a beating. Tema Roofing and Siding provides prompt and reliable siding repair services to address damage caused by weather, pests, or age. We understand the urgency of siding repairs, as even small cracks or holes can lead to significant water damage. Our experienced technicians quickly assess the damage and provide effective solutions to restore your siding's integrity. We work with all types of siding, including vinyl, fiber cement, and wood, ensuring a seamless repair that matches your existing siding. Whether you have a few damaged planks or extensive siding damage, we have the expertise to get the job done right. We prioritize quick response times and transparent pricing, so you can get your siding repaired without breaking the bank. Don't let damaged siding compromise your home's protection—contact Tema Roofing and Siding for fast and reliable repair services. From fixing cracks to replacing entire sections, we're committed to restoring your siding to its original condition.",
+        "process": [
+          "Step 1: Damage Assessment – Thorough inspection to identify the extent of the damage.",
+          "Step 2: Material Matching – Sourcing matching materials for seamless repairs.",
+          "Step 3: Expert Repair – Precise repair or replacement of damaged siding.",
+          "Step 4: Sealing and Finishing – Ensuring a watertight and aesthetically pleasing finish."
+        ],
+        "benefits": [
+          "Fast response times",
+          "Expert damage assessment",
+          "Seamless repairs",
+          "Protection from water damage"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a siding repair request?",
+            "answer": "We understand the urgency of siding repairs and strive to respond to all requests as quickly as possible, typically within 24-48 hours."
+          },
+          {
+            "question": "Do you offer emergency siding repair services?",
+            "answer": "Yes, we offer emergency siding repair services for situations that require immediate attention, such as storm damage or significant leaks."
+          },
+          {
+            "question": "Can you match the color of my existing siding?",
+            "answer": "Yes, we have extensive experience matching colors and styles of existing siding to ensure a seamless repair."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation",
+        "shortDescription": "Classic wood siding installation, adding timeless beauty to your home.",
+        "description": "For homeowners seeking a natural and elegant look, wood siding offers unmatched charm and character. Tema Roofing and Siding specializes in the installation of wood siding, carefully selecting high-quality materials that enhance your home's architectural style. We understand the unique challenges of wood siding in Philadelphia's climate, and we take extra precautions to ensure its longevity. Wood siding requires regular maintenance to combat moisture and rot, so we only use the best materials and techniques. We provide expert advice on wood selection, staining, and sealing to protect your investment. From traditional clapboard to modern shiplap, we have the expertise to bring your wood siding vision to life. We handle every aspect of the installation process, from preparing the surface to applying the final coat of sealant. Trust us to deliver a stunning wood siding installation that enhances your home's curb appeal and value. We focus on proper ventilation and drainage to minimize moisture damage and extend the life of your wood siding.",
+        "process": [
+          "Step 1: Wood Selection – Choosing the right wood species and style for your home.",
+          "Step 2: Preparation – Priming and sealing the wood to protect against moisture.",
+          "Step 3: Precise Installation – Careful fitting and fastening of wood siding planks.",
+          "Step 4: Finishing – Applying stain or paint for a beautiful and durable finish."
+        ],
+        "benefits": [
+          "Natural beauty",
+          "Elegant aesthetic",
+          "Increased home value",
+          "Customizable look"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for siding in Philadelphia?",
+            "answer": "Cedar and redwood are excellent choices for wood siding in Philadelphia due to their natural resistance to moisture and decay."
+          },
+          {
+            "question": "How often should wood siding be stained or sealed?",
+            "answer": "Wood siding should be stained or sealed every 3-5 years to protect it from the elements and prevent rot."
+          },
+          {
+            "question": "What are the signs that my wood siding needs repair?",
+            "answer": "Signs of wood siding damage include cracks, rot, peeling paint, and insect infestations."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair",
+        "shortDescription": "Protect your roof and home's structure with expert soffit and fascia repair.",
+        "description": "Soffit and fascia are critical components of your home's roofing system, protecting it from moisture, pests, and the elements. Tema Roofing and Siding provides comprehensive soffit and fascia repair services to ensure your roof remains in top condition. Damaged soffit and fascia can lead to significant water damage and structural problems, especially in Philadelphia's climate with its frequent rain and snow. Our experienced technicians quickly assess the damage and provide effective solutions to restore the integrity of your soffit and fascia. We work with various materials, including wood, vinyl, and aluminum, ensuring a seamless repair that matches your existing system. Whether you have rotting wood or damaged vinyl, we have the expertise to get the job done right. We prioritize quick response times and transparent pricing, so you can get your soffit and fascia repaired without delay. Don't let damaged soffit and fascia compromise your home's protection—contact Tema Roofing and Siding for fast and reliable repair services. We handle everything from replacing damaged sections to sealing gaps and preventing future problems.",
+        "process": [
+          "Step 1: Inspection – Thorough inspection of soffit and fascia for damage.",
+          "Step 2: Removal – Careful removal of damaged sections.",
+          "Step 3: Replacement – Installation of new, durable soffit and fascia.",
+          "Step 4: Sealing – Ensuring a watertight seal to prevent future damage."
+        ],
+        "benefits": [
+          "Protection from moisture",
+          "Pest prevention",
+          "Improved ventilation",
+          "Structural integrity"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of damaged soffit and fascia?",
+            "answer": "Signs of damaged soffit and fascia include rotting wood, peeling paint, visible holes, and water stains."
+          },
+          {
+            "question": "How important is soffit and fascia for my home's ventilation?",
+            "answer": "Soffit provides essential ventilation for your attic, preventing moisture buildup and mold growth."
+          },
+          {
+            "question": "Can damaged soffit and fascia attract pests?",
+            "answer": "Yes, damaged soffit and fascia can create entry points for pests like insects, rodents, and birds."
+          }
+        ]
+      },
+      {
+        "slug": "siding-inspection",
+        "name": "Siding Inspection Services",
+        "shortDescription": "Comprehensive siding inspection to identify potential problems and prevent costly repairs.",
+        "description": "Protect your investment with a professional siding inspection from Tema Roofing and Siding. Our comprehensive inspections are designed to identify potential problems early, preventing costly repairs down the road. We thoroughly assess your siding for damage, including cracks, holes, rot, and loose panels. We also check for signs of moisture intrusion, which can lead to significant structural damage. Our experienced inspectors provide a detailed report outlining any issues and recommending appropriate solutions. Regular siding inspections are especially important in Philadelphia, where the climate can be harsh on exterior materials. We help you stay ahead of potential problems, ensuring your siding provides lasting protection for your home. Whether you're buying, selling, or simply maintaining your property, a siding inspection from Tema Roofing and Siding provides valuable peace of mind. We use advanced tools and techniques to detect hidden problems and provide accurate assessments. Don't wait until it's too late—schedule your siding inspection today.",
+        "process": [
+          "Step 1: Visual Inspection – Thorough examination of siding for visible damage.",
+          "Step 2: Moisture Detection – Using moisture meters to identify hidden leaks.",
+          "Step 3: Structural Assessment – Checking for structural integrity and stability.",
+          "Step 4: Detailed Report – Providing a comprehensive report with findings and recommendations."
+        ],
+        "benefits": [
+          "Early problem detection",
+          "Prevention of costly repairs",
+          "Increased home value",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my siding inspected?",
+            "answer": "We recommend having your siding inspected at least once a year, especially after severe weather events."
+          },
+          {
+            "question": "What does a siding inspection include?",
+            "answer": "A siding inspection includes a thorough visual examination, moisture detection, and structural assessment."
+          },
+          {
+            "question": "Can a siding inspection help me save money?",
+            "answer": "Yes, by identifying potential problems early, a siding inspection can help you prevent costly repairs in the future."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Philadelphia",
+        "slug": "philadelphia-pa",
+        "state": "PA",
+        "content": "Tema Roofing and Siding is proud to offer our expert siding installation services to homeowners throughout Philadelphia. We understand the unique architectural styles and weather challenges that Philly homes face. Our team is committed to providing top-quality siding solutions that not only enhance your home's curb appeal but also protect it from the elements for years to come.\n\nFrom classic row homes in South Philly to historic properties in Old City, we have experience working with a wide range of siding materials, including vinyl, fiber cement, and wood. We'll work closely with you to choose the perfect siding option that complements your home's aesthetic and meets your budget. We also offer siding repair and replacement services to address any damage or deterioration your existing siding may have sustained.",
+        "localContext": "As a local business, we're dedicated to serving our neighbors in Philadelphia with integrity and professionalism. We understand the importance of community and strive to build lasting relationships with our customers.",
+        "nearbyAreas": [
+          "Camden",
+          "Upper Darby",
+          "Bala Cynwyd"
+        ]
+      },
+      {
+        "city": "Upper Darby",
+        "slug": "upper-darby-pa",
+        "state": "PA",
+        "content": "Tema Roofing and Siding extends its superior siding services to the residents of Upper Darby. We recognize the diverse housing styles found throughout Upper Darby, from historic stone homes to modern constructions. Our skilled team is equipped to handle any siding project, ensuring your home is both beautiful and well-protected.\n\nWe offer a comprehensive range of siding options, including vinyl, fiber cement, and cedar, to suit your individual preferences and budget. Whether you're looking to update your home's exterior or repair existing siding damage, we're committed to providing exceptional craftsmanship and customer satisfaction. We take pride in helping Upper Darby homeowners enhance the value and curb appeal of their properties.",
+        "localContext": "We're familiar with the unique needs of Upper Darby homeowners, and we're committed to providing personalized service and expert guidance. We believe in transparent communication and strive to make the siding installation process as smooth and stress-free as possible.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Drexel Hill",
+          "Clifton Heights"
+        ]
+      },
+      {
+        "city": "Bensalem",
+        "slug": "bensalem-pa",
+        "state": "PA",
+        "content": "Tema Roofing and Siding proudly serves the Bensalem community with top-notch siding installation and repair services. We understand the importance of having durable and attractive siding to protect your home from the elements and enhance its overall appearance. Our expert team is dedicated to providing exceptional workmanship and outstanding customer service.\n\nWhether you're looking to install new siding, replace damaged siding, or simply upgrade your home's exterior, we offer a wide variety of siding options to choose from, including vinyl, fiber cement, and wood. We'll work closely with you to select the perfect siding solution that meets your needs and budget. Let Tema Roofing and Siding help you transform your Bensalem home with beautiful and long-lasting siding.",
+        "localContext": "We are committed to serving the homeowners of Bensalem and providing reliable, high-quality siding services. We take pride in our attention to detail and our commitment to exceeding customer expectations.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Trevose",
+          "Cornwells Heights"
+        ]
+      },
+      {
+        "city": "Norristown",
+        "slug": "norristown-pa",
+        "state": "PA",
+        "content": "Tema Roofing and Siding is dedicated to providing Norristown residents with expert siding services. We know that your home's siding is a crucial element in protecting it from the harsh Pennsylvania weather. Our experienced team offers a wide range of siding options to fit every style and budget.\n\nFrom vinyl siding to fiber cement and wood siding, we can help you choose the perfect material to enhance your home's curb appeal and provide long-lasting protection. We also offer siding repair services to address any damage or wear and tear. Trust Tema Roofing and Siding to deliver quality workmanship and exceptional customer service in Norristown.",
+        "localContext": "We understand the specific needs of Norristown homeowners and are committed to providing tailored siding solutions that meet their individual requirements. Our goal is to make your siding project a seamless and stress-free experience.",
+        "nearbyAreas": [
+          "Bridgeport",
+          "King of Prussia",
+          "Conshohocken"
+        ]
+      },
+      {
+        "city": "Drexel Hill",
+        "slug": "drexel-hill-pa",
+        "state": "PA",
+        "content": "Tema Roofing and Siding offers premier siding services to the Drexel Hill community. We understand the importance of quality siding in protecting your home from the elements and enhancing its aesthetic appeal. Our skilled professionals are committed to providing top-notch workmanship and exceptional customer service.\n\nWhether you're looking to install new siding, replace existing siding, or repair damage, we have the expertise to handle any siding project. We offer a wide variety of siding options, including vinyl, fiber cement, and wood, to suit your style and budget. Let Tema Roofing and Siding help you transform your Drexel Hill home with durable and beautiful siding.",
+        "localContext": "We are proud to serve the homeowners of Drexel Hill and are dedicated to providing reliable and affordable siding solutions. We strive to build lasting relationships with our customers through honesty, integrity, and superior service.",
+        "nearbyAreas": [
+          "Upper Darby",
+          "Havertown",
+          "Clifton Heights"
+        ]
+      },
+      {
+        "city": "King of Prussia",
+        "slug": "king-of-prussia-pa",
+        "state": "PA",
+        "content": "Tema Roofing and Siding is proud to offer expert siding services to homeowners in King of Prussia. We understand the importance of durable, attractive siding for protecting your investment and enhancing your home's curb appeal. Our experienced team is dedicated to providing top-quality workmanship and exceptional customer service.\n\nWe offer a wide range of siding options to choose from, including vinyl, fiber cement, and wood, ensuring you find the perfect fit for your style and budget. Whether you're looking to install new siding, replace old siding, or repair existing damage, Tema Roofing and Siding is here to help. We're committed to making your siding project a seamless and stress-free experience.",
+        "localContext": "As a local business, we're dedicated to serving our neighbors in King of Prussia with integrity and professionalism. We understand the importance of community and strive to build lasting relationships with our customers.",
+        "nearbyAreas": [
+          "Norristown",
+          "Wayne",
+          "Conshohocken"
+        ]
+      },
+      {
+        "city": "Wayne",
+        "slug": "wayne-pa",
+        "state": "PA",
+        "content": "Tema Roofing and Siding provides homeowners in Wayne, PA with top-quality siding installation and repair services. We understand that your home's siding is a critical element in protecting it from the elements and enhancing its overall aesthetic. Our skilled team is dedicated to delivering exceptional workmanship and outstanding customer service.\n\nWe offer a diverse selection of siding options, including vinyl, fiber cement, and wood, to cater to your specific preferences and budget. Whether you're looking to upgrade your home's exterior or address existing siding damage, we're committed to providing superior craftsmanship and ensuring your complete satisfaction. We take pride in assisting Wayne homeowners in increasing the value and curb appeal of their properties.",
+        "localContext": "We're familiar with the distinct needs of Wayne homeowners, and we're committed to delivering personalized service and expert guidance. We believe in clear communication and strive to make the siding installation process as smooth and hassle-free as possible.",
+        "nearbyAreas": [
+          "King of Prussia",
+          "Radnor",
+          "Bryn Mawr"
+        ]
+      },
+      {
+        "city": "Bryn Mawr",
+        "slug": "bryn-mawr-pa",
+        "state": "PA",
+        "content": "Tema Roofing and Siding extends its expert siding services to the residents of Bryn Mawr. We recognize the importance of having durable and aesthetically pleasing siding to protect your home and enhance its curb appeal. Our experienced team is committed to providing exceptional workmanship and unparalleled customer service.\n\nWe offer a comprehensive range of siding solutions, including vinyl, fiber cement, and wood, to suit your individual tastes and budget. Whether you're looking to update your home's exterior or repair existing siding damage, we're dedicated to delivering superior craftsmanship and ensuring your complete satisfaction. We take pride in helping Bryn Mawr homeowners enhance the value and beauty of their homes.",
+        "localContext": "We understand the unique needs of Bryn Mawr homeowners, and we're committed to providing personalized service and expert advice. We believe in transparent communication and strive to make the siding installation process as straightforward and stress-free as possible.",
+        "nearbyAreas": [
+          "Wayne",
+          "Villanova",
+          "Ardmore"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Tema Roofing and Siding did an amazing job on our vinyl siding. The crew was professional, efficient, and left the job site spotless. Our house looks brand new!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair Services",
+        "text": "We had some storm damage to our siding, and Tema Roofing and Siding responded quickly and repaired it perfectly. Reasonable prices and great service. Would recommend!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "Tema Roofing and Siding installed James Hardie siding on our Victorian twin in West Philly. The result is stunning! The crew was meticulous and paid attention to every detail. Worth every penny.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Soffit and Fascia Repair",
+        "text": "Tema Roofing and Siding fixed our damaged soffit and fascia after a bad storm. They were prompt, professional, and the price was very fair. Highly recommend their services!",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Emily C.",
+        "rating": 4,
+        "service": "Siding Inspection Services",
+        "text": "We used Tema Roofing and Siding for a siding inspection before buying a house. They found some hidden damage that saved us a lot of money in the long run. Very thorough and professional.",
+        "date": "2024-05-05"
+      },
+      {
+        "name": "Tom P.",
+        "rating": 5,
+        "service": "Wood Siding Installation",
+        "text": "Tema Roofing and Siding installed beautiful cedar siding on our home. The craftsmanship is outstanding, and they were a pleasure to work with. Our house looks amazing!",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tema Roofing & Siding: Philly Siding Experts",
+        "description": "Trusted siding installation and repair in Philadelphia. Vinyl, fiber cement, wood siding. Free estimates. Protect your home!"
+      },
+      "about": {
+        "title": "About Tema Roofing & Siding | Philadelphia, PA",
+        "description": "Learn about Tema Roofing & Siding's commitment to quality siding in Philadelphia. Local experts, trusted materials, honest service."
+      },
+      "services": {
+        "title": "Siding Services | Philadelphia, PA",
+        "description": "Tema Roofing & Siding offers complete siding services in Philadelphia. Installation, repair, inspection. Vinyl, fiber cement, wood."
+      },
+      "contact": {
+        "title": "Contact Tema Roofing & Siding | Philadelphia, PA",
+        "description": "Contact Tema Roofing & Siding for a free siding estimate in Philadelphia. Call +12159530300 for expert siding solutions."
+      },
+      "reviews": {
+        "title": "Tema Roofing & Siding Reviews | Philadelphia, PA",
+        "description": "Read reviews for Tema Roofing & Siding, Philadelphia's trusted siding contractor. See what our customers say about our quality workmanship."
+      },
+      "service-areas": {
+        "title": "Siding Service Areas | Philadelphia, PA",
+        "description": "Tema Roofing & Siding provides siding services in Philadelphia and surrounding areas. Find your city and get a free estimate."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp",
+      "siding-inspection": "/images/service-siding-inspection.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-inspection": {
+        "src": "/images/service-siding-inspection.webp",
+        "srcset": "/images/service-siding-inspection-400w.webp 400w, /images/service-siding-inspection-800w.webp 800w, /images/service-siding-inspection-1200w.webp 1200w, /images/service-siding-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
